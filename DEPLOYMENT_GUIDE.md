@@ -143,9 +143,6 @@ nano .env
 NODE_ENV=production
 PORT=5000
 
-# Database
-MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/erp?retryWrites=true&w=majority
-REDIS_URL=redis://your-redis-host:6379
 
 # JWT
 JWT_SECRET=your-super-secret-jwt-key-change-this
