@@ -156,7 +156,7 @@ CGU Portal is a **competition-winning, enterprise-grade College ERP system** des
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/cgu-portal.git
+git clone https://github.com/priyannu/UNIVERSITY-ERP.git
 cd cgu-portal
 ```
 
@@ -169,7 +169,7 @@ npm install
 3. **Configure environment variables**
 ```bash
 cp .env.example .env
-# Edit .env with your configuration
+
 ```
 
 4. **Start MongoDB**
@@ -439,7 +439,6 @@ For support, email support@yourdomain.com or join our [Discord server](https://d
 
 <div align="center">
 
-**Made with ❤️ by the CGU Portal Team**
 
 [Website](https://yourdomain.com) • [Documentation](./docs) • [Report Bug](https://github.com/yourusername/cgu-portal/issues) • [Request Feature](https://github.com/yourusername/cgu-portal/issues)
 
