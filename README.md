@@ -17,9 +17,9 @@
 
 ## 🌟 Overview
 
-CGU Portal is a **competition-winning, enterprise-grade College ERP system** designed with premium UI/UX inspired by leading SaaS platforms like Stripe, Notion, and Linear. It provides comprehensive management solutions for educational institutions with advanced features including AI-powered analytics, real-time notifications, and intelligent automation.
+University Portal is a **competition-winning, enterprise-grade College ERP system** designed with premium UI/UX inspired by leading SaaS platforms like Stripe, Notion, and Linear. It provides comprehensive management solutions for educational institutions with advanced features including AI-powered analytics, real-time notifications, and intelligent automation.
 
-### Why CGU Portal Stands Out
+### Why University Portal Stands Out
 
 ✨ **Premium Design** - Glassmorphism, gradients, smooth animations, and modern aesthetics  
 🤖 **AI-Powered** - Predictive analytics, chatbot assistant, smart recommendations  
