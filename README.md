@@ -1,4 +1,4 @@
-# 🎓 CGU Portal - Premium College ERP System
+# 🎓 University Portal - Premium College ERP System
 
 <div align="center">
 
